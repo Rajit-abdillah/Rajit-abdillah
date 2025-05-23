@@ -3,7 +3,7 @@
 - 👀 I’m interested in Frontend Development  
 - 🌱 Currently learning: HTML, CSS, JavaScript, Git, and GitHub  
 - 📫 Reach me at: **abdillahrajit@gmail.com**  
-- 😄 Pronouns: he/him (also okay with dude/guy)  
+- 😄 Pronouns: he/him dude/guy  
 - ⚡ Fun fact: I'm a fast learner in most things, but programming has challenged me in a unique way. It's been frustrating at times, but also incredibly rewarding. I'm determined to grow into a skilled developer with strong learning and practice habits.
 
 <!---
